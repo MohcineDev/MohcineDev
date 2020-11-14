@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [Email](mouhcinedev@gmail.com)
-
+- 📫 Contact me: mouhcinedev@gmail.com
+- :art: [codepen](https://codepen.io/MohcineDev)
 <!--
 **MohcineDev/MohcineDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
