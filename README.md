@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🤔 I’m looking for an internship
-- 📫 Contact me: mouhcinedev@gmail.com
-- :art: my [Codepen](https://codepen.io/MohcineDev)
+* 🤔 I’m looking for an internship
+* 📫 Contact me: mouhcinedev@gmail.com
+* :art: my [Codepen](https://codepen.io/MohcineDev)
+
+
 <!--
 **MohcineDev/MohcineDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
