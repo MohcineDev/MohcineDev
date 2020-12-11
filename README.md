@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 
- <img width=40px   src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>
+-->
+
+<div style="display:flex; justify-content:space-around; width:50%">
+<img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>
  <img width=40px  src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="Adobe illustrator icon"/>
- 
+ </div> 
