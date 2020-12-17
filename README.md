@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -document.querySelector('#id-ce38e65cc5db0555cf9b073b6f428bea').src
 -->
 
-### Tools :   
+### Tools : 
     
 <div style="display:flex; justify-content:space-between; width:100%">
 <img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  <img  width=40px  src="react.svg" alt="React JS">
  <img  width=40px  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="React JS">
  <img  width=40px  src="https://nodejs.org/static/images/logo-light.svg" alt="React JS">
- <img  width=40px  src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="React JS">
  <img  width=40px  src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="React JS">
+ <img  width=40px  src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="React JS">
 
  </div> 
