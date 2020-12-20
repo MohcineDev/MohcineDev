@@ -31,9 +31,10 @@ Here are some ideas to get you started:
  <img  width=40px  src="html.svg" alt="html">
  <img  width=40px  src="css.svg" alt="css">
  <img  width=40px  src="react.svg" alt="React JS">
- <img  width=40px  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="React JS">
- <img  width=40px  src="https://nodejs.org/static/images/logo-light.svg" alt="React JS">
- <img  width=40px  src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="React JS">
- <img  width=40px  src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="React JS">
+ <img  width=40px  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS">
+ <img  width=40px  src="https://nodejs.org/static/images/logo-light.svg" alt="node JS">
+ <img  width=40px  src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="visualstudio code">
+ <img  width=40px  src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="visualstudio">
+ <img   width=40px src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer">  
 
  </div> 
