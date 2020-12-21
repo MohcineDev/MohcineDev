@@ -4,7 +4,7 @@
 * 📫 Contact me: Mouhcinedev@gmail.com
 * :art: my [Codepen](https://codepen.io/MohcineDev)
 
-check this [Business Card](https://github.com/MohcineDev/Business-Card) 
+check this [Business Card](https://mohcinedev.github.io/Business-Card/) 
 
 
 <!--
