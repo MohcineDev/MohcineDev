@@ -31,6 +31,7 @@ Here are some ideas to get you started:
  <img  width=40px  src="html.svg" alt="html">
  <img  width=40px  src="css.svg" alt="css">
  <img  width=40px  src="react.svg" alt="React JS">
+ <img  width=40px  src="https://github.githubassets.com/images/icons/emoji/electron.png" alt="electronjs">
  <img  width=40px  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS">
  <img  width=40px  src="https://nodejs.org/static/images/logo-light.svg" alt="node JS">
  <img  width=40px  src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="visualstudio code">
