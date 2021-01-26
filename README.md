@@ -6,6 +6,7 @@
 
 ### Some Projects :  
 - check this [Business Card](https://mohcinedev.github.io/Business-Card/)   
+- check this [Landing Page](https://landing-dev.netlify.app/)   
 - check this [Protein Shop Demo Website](https://mohcinedev.github.io/Protein/)     
 - check this [Login Form / illustration](https://codepen.io/MohcineDev/pen/oNXPmwx)     
 
