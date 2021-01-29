@@ -8,9 +8,10 @@
 - check this [Business Card](https://mohcinedev.github.io/Business-Card/)   
 - check this [Landing Page](https://landing-dev.netlify.app/)   
 - check this [Protein Shop Demo Website](https://mohcinedev.github.io/Protein/)     
-- check this [Login Form / illustration](https://codepen.io/MohcineDev/pen/oNXPmwx)     
+- check this [Login Form / Illustration](https://codepen.io/MohcineDev/full/oNXPmwx)     
+- check this [Pricing Table](https://codepen.io/MohcineDev/full/QWKJLyd)     
 
-Now working on this [Cooperative](https://github.com/MohcineDev/cooperative) website using React JS 
+Now working on this [Cooperative](https://github.com/MohcineDev/cooperative) website using React JS    
 
 
 
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -document.querySelector('#id-ce38e65cc5db0555cf9b073b6f428bea').src
 -->
-
 ### Tools : 
     
 <div style="display:flex; justify-content:space-between; width:100%">
