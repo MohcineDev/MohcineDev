@@ -7,11 +7,11 @@
 ### Some Projects :  
 - check this [Business Card](https://mohcinedev.github.io/Business-Card/)   
 - check this [Landing Page](https://landing-dev.netlify.app/)   
-- check this [Protein Shop Demo Website](https://mohcinedev.github.io/Protein/)     
+- check this [Protein Shop Demo Website](https://protein-dev.netlify.app/)     
 - check this [Login Form / Illustration](https://codepen.io/MohcineDev/full/oNXPmwx)     
 - check this [Pricing Table](https://codepen.io/MohcineDev/full/QWKJLyd)     
 
-Now working on this [Cooperative](https://github.com/MohcineDev/cooperative) website using React JS    
+Now working on this [Cooperative](https://cooperative-dev.netlify.app/) website using React JS    
 
 
 
