@@ -5,32 +5,17 @@
 * :art: my [Codepen](https://codepen.io/MohcineDev)
 
 ### Some Projects :  
-- check this [Business Card](https://mohcinedev.github.io/Business-Card/)   
+- check this [Business Card](https://mohcinedev.github.io/Business-Card/)    
 - check this [Landing Page](https://landing-dev.netlify.app/)   
 - check this [Protein Shop Demo Website](https://protein-dev.netlify.app/)     
 - check this [Login Form / Illustration](https://codepen.io/MohcineDev/full/oNXPmwx)     
+- check this [Grid Carousel ](https://codepen.io/MohcineDev/full/WNoMVMv)     
 - check this [Pricing Table](https://codepen.io/MohcineDev/full/QWKJLyd)     
-
 - React JS website [Cooperative](https://cooperative-dev.netlify.app/)       
 - Login Form [illustration](https://codepen.io/MohcineDev/full/oNXPmwx)        
 - my custom [documentation](https://mohcinedev.github.io/gitDes/) for Git         
 
 
-<!--
-**MohcineDev/MohcineDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--document.querySelector('#id-ce38e65cc5db0555cf9b073b6f428bea').src
--->
 ### Tools : 
     
 <div style="display:flex; justify-content:space-between; width:100%">
