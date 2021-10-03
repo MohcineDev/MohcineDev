@@ -5,17 +5,17 @@
 * :art: my [Codepen](https://codepen.io/MohcineDev)
 
 ### Some Projects :  
-- check this [Business Card](https://mohcinedev.github.io/Business-Card/)    
-- check this [Landing Page](https://landing-dev.netlify.app/)   
-- check this [Protein Shop Demo Website](https://protein-dev.netlify.app/)     
-- check this [Login Form / Illustration](https://codepen.io/MohcineDev/full/oNXPmwx)     
-- check this [Grid Carousel ](https://codepen.io/MohcineDev/full/WNoMVMv)     
-- check this [Pricing Table](https://codepen.io/MohcineDev/full/QWKJLyd)     
+- Check this [Business Card](https://mohcinedev.github.io/Business-Card/)    
+- Check this [Landing Page](https://landing-dev.netlify.app/)   
+- Check this [Protein Shop Demo Website](https://protein-dev.netlify.app/)     
+- Check this [Login Form / Illustration](https://codepen.io/MohcineDev/full/oNXPmwx)     
+- Check this [Grid Carousel ](https://codepen.io/MohcineDev/full/WNoMVMv)     
+- Check this [Pricing Table](https://codepen.io/MohcineDev/full/QWKJLyd)     
 - React JS website [Cooperative](https://cooperative-dev.netlify.app/)       
 - Login Form [illustration](https://codepen.io/MohcineDev/full/oNXPmwx)        
 - my custom [documentation](https://mohcinedev.github.io/gitDes/) for Git         
-- check this [Password Generator](https://mohcinedev.github.io/Password-generator/) 
-       
+- check this [Password Generator](https://mohcinedev.github.io/Password-generator/)    
+
 
 
 ### Tools : 
