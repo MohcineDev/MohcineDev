@@ -14,7 +14,7 @@
 - React JS website [Cooperative](https://cooperative-dev.netlify.app/)       
 - Login Form [illustration](https://codepen.io/MohcineDev/full/oNXPmwx)        
 - my custom [documentation](https://mohcinedev.github.io/gitDes/) for Git         
-- check this [Password Generator](https://mohcinedev.github.io/gitDes/) 
+- check this [Password Generator](https://mohcinedev.github.io/Password-generator/) 
        
 
 
