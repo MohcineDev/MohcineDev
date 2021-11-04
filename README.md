@@ -18,8 +18,7 @@
 
 
 
-### Tools : 
-    
+### Tools :     
 <div style="display:flex; justify-content:space-between; width:100%">
 <img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>
  <img width=40px src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="Adobe illustrator icon"/>
