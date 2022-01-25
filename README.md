@@ -6,14 +6,16 @@
 
 ### Some Projects :  
 - Check this [Business Card](https://mohcinedev.github.io/Business-Card/)    
+- my [Portfolio](https://mohcinedev.netlify.app) with Next js   
 - Check this [Landing Page](https://landing-dev.netlify.app/)   
-- Check this [Protein Shop Demo Website](https://protein-dev.netlify.app/)     
+- Vue JS [contact from](https://contact-from.netlify.app/)   
+- Check this [Protein Shop Demo](https://protein-dev.netlify.app/)     
 - Check this [Login Form / Illustration](https://codepen.io/MohcineDev/full/oNXPmwx)     
 - Check this [Grid Carousel ](https://codepen.io/MohcineDev/full/WNoMVMv)     
 - Check this [Pricing Table](https://codepen.io/MohcineDev/full/QWKJLyd)     
 - React JS website [Cooperative](https://cooperative-dev.netlify.app/)       
 - Login Form [illustration](https://codepen.io/MohcineDev/full/oNXPmwx)        
-- my custom [documentation](https://mohcinedev.github.io/gitDes/) for Git         
+- my custom [Doc](https://mohcinedev.github.io/gitDes/) for Git         
 - check this [Password Generator](https://mohcinedev.github.io/Password-generator/)    
 
 
