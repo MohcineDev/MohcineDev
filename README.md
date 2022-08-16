@@ -10,6 +10,7 @@
 - Check this [Landing Page](https://landing-dev.netlify.app/)   
 - Vue JS [contact from](https://contact-from.netlify.app/)   
 - Check this [Protein Shop Demo](https://protein-dev.netlify.app/)     
+- Vue JS [Moroccan Truckers](https://moroccantruckers.netlify.app/) website          
 - Check this [Login Form / Illustration](https://codepen.io/MohcineDev/full/oNXPmwx)     
 - Check this [Grid Carousel ](https://codepen.io/MohcineDev/full/WNoMVMv)     
 - Check this [Pricing Table](https://codepen.io/MohcineDev/full/QWKJLyd)     
