@@ -15,7 +15,6 @@
 - Check this [Login Form / Illustration](https://codepen.io/MohcineDev/full/oNXPmwx)     
 - Check this [Grid Carousel ](https://codepen.io/MohcineDev/full/WNoMVMv)     
 - Check this [Pricing Table](https://codepen.io/MohcineDev/full/QWKJLyd)     
-- React JS website [Cooperative](https://cooperative-dev.netlify.app/)       
 - Login Form [illustration](https://codepen.io/MohcineDev/full/oNXPmwx)        
 - my custom [Doc](https://mohcinedev.github.io/gitDes/) for Git         
 - check this [Password Generator](https://mohcinedev.github.io/Password-generator/)    
