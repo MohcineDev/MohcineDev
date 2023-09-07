@@ -8,7 +8,7 @@
 - Check this [Business Card](https://mohcinedev.github.io/Business-Card/)    
 - Check this [Random Bucket Name Generator](https://mohcinedev.github.io/bucket/)    
 - my [Portfolio](https://mohcinedev.netlify.app) with Next js   
-- Check this [Landing Page](https://landing-dev.netlify.app/)   
+- Check this [Landing Page](https://fitobe.netlify.app/)   
 - Vue JS [contact from](https://contact-from.netlify.app/)   
 - Check this [Protein Shop Demo](https://protein-dev.netlify.app/)     
 - Vue JS [Moroccan Truckers](https://moroccantruckers.netlify.app/) website          
