@@ -9,7 +9,7 @@
 - Check this [Random Bucket Name Generator](https://mohcinedev.github.io/bucket/)    
 - my [Portfolio](https://mohcinedev.netlify.app) with Next js   
 - Check this [Landing Page](https://fitobe.netlify.app/)   
-- Vue JS [contact from](https://contact-from.netlify.app/)   
+- Vue JS [contact from](https://contact-vue.netlify.app)   
 - Check this [Protein Shop Demo](https://protein-dev.netlify.app/)     
 - Vue JS [Moroccan Truckers](https://moroccantruckers.netlify.app/) website          
 - Check this [Login Form / Illustration](https://codepen.io/MohcineDev/full/oNXPmwx)     
