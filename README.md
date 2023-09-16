@@ -29,7 +29,7 @@
  <img width=40px src="html.svg" alt="html">
  <img width=40px src="css.svg" alt="css">
  <img width=40px src="react.svg" alt="React JS">
- <img width=40px background="#fff" src="next.svg" alt="Next JS" style="background:#fff">
+ <img width=40px backgroundColor="#fff" src="next.svg" alt="Next JS" style="background:#fff">
  <img width=40px src="vue.png" alt="Vue JS">
  <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS">
  <img width=40px src="https://nodejs.org/static/images/logo-light.svg" alt="node JS">
