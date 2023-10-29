@@ -1,6 +1,5 @@
 ﻿### Hi there 👋
 
-* 🤔 I’m looking for an internship
 * 📫 Contact me: Mouhcinedev@gmail.com
 * :art: my [Codepen](https://codepen.io/MohcineDev)
 
