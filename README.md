@@ -28,7 +28,7 @@
 <img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>
  <img width=40px src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="Adobe illustrator icon"/>
  <img width=40px src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="Adobe illustrator icon"/>
- <img width=40px src="bash.svg" alt="git bash">
+ <img width=40px src="bash.svg" alt="git bash" title="Git">
  <img width=40px src="html.svg" alt="html">
  <img width=40px src="css.svg" alt="css">
  <img width=40px src="react.svg" alt="React JS">
