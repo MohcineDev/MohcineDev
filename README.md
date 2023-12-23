@@ -1,5 +1,7 @@
 ﻿### Hi there 👋
 
+"Continuously motivated to learn more and enhancing my skills."
+
 * 📫 Contact me: Mouhcinedev@gmail.com
 * :art: my [Codepen](https://codepen.io/MohcineDev)
 
