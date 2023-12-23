@@ -3,21 +3,6 @@
 * 📫 Contact me: Mouhcinedev@gmail.com
 * :art: my [Codepen](https://codepen.io/MohcineDev)
 
-### Some Projects :  
-- Check this [Business Card](https://mohcinedev.github.io/Business-Card/)    
-- Check this [Random Bucket Name Generator](https://mohcinedev.github.io/bucket/)    
-- my [Portfolio](https://mohcinedev.netlify.app) with Next js   
-- Check this [Landing Page](https://fitobe.netlify.app/)   
-- Vue JS [contact from](https://contact-vue.netlify.app)   
-- Check this [Protein Shop Demo](https://protein-dev.netlify.app/)     
-- Vue JS [Moroccan Truckers](https://moroccantruckers.netlify.app/) website          
-- Check this [Login Form / Illustration](https://codepen.io/MohcineDev/full/oNXPmwx)     
-- Check this [Grid Carousel ](https://codepen.io/MohcineDev/full/WNoMVMv)     
-- Check this [Pricing Table](https://codepen.io/MohcineDev/full/QWKJLyd)     
-- my custom [Doc](https://mohcinedev.github.io/gitDes/) for Git         
-- check this [Password Generator](https://mohcinedev.github.io/Password-generator/)    
-
-
 
 <div align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=mohcinedev&theme=whatsapp-dark2&hide_border=true&border_radius=16&card_width=800"/>
