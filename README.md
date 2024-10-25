@@ -14,7 +14,7 @@
 </div>
 
 ### Tools :     
-<div align="center" style="display:flex; justify-content:space-between; width:100%">
+<div align="center" style="display:flex; justify-content:space-between; align-items:center; width:100%">
 <img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>
  <img width=40px src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="Adobe illustrator icon"/>
  <img width=40px src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="Adobe illustrator icon"/>
