@@ -1,6 +1,6 @@
 ﻿### Hi there 👋
 
-"Continuously motivated to learn more and enhancing my skills."
+"Continuously motivated to learn and enhance my skills."
 
 * 📫 Contact me: Mouhcinedev@gmail.com
 * :art: my [Codepen](https://codepen.io/MohcineDev)
