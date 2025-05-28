@@ -9,12 +9,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohcineDev&langs_count=14)
 </div>
+<div  align="center" style="display:flex">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohcinedev&theme=algolia"> 
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohcinedev&count_private=true&theme=algolia"> 
+</div>
 <div align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=mohcinedev&theme=whatsapp-dark2&hide_border=true&border_radius=16&card_width=800&fire=21c063"/ alt="@MOHCINEDEV :)">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=mohcinedev&theme=whatsapp-dark2&hide_border=true&border_radius=16&card_width=800&fire=21c063"/ alt="@MOHCINEDEV"/>
 </div>
 
+
 ### Tools :     
-<div align="center" style="display:flex; justify-content:space-between; align-items:center; width:100%">
+<div align="center" style="display:flex; justify-content:space-between; align-items:center; width:100%">E.md
 <img width=40px src="pre.svg" alt="premiere pro"/>
  <img width=40px src="ill.svg" alt="Adobe illustrator"/>
  <img width=40px src="pho.svg" alt="Adobe photoshop"/>
@@ -32,5 +37,5 @@
  <img width=40px src="tailwindcss.svg" alt="tailwindcss">  
  <img width=40px src="grunt.svg" alt="grunt">  
  <img width=40px src="https://go.dev/images/go-logo-white.svg" alt="GO">  
-
+</div>
  </div> 
