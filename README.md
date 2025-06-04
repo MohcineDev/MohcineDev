@@ -19,7 +19,7 @@
 
 
 ### Tools :     
-<div align="center" style="display:flex; justify-content:space-between; align-items:center; width:100%">E.md
+<div align="center" style="display:flex; justify-content:space-between; align-items:center; width:100%">
 <img width=40px src="pre.svg" alt="premiere pro"/>
  <img width=40px src="ill.svg" alt="Adobe illustrator"/>
  <img width=40px src="pho.svg" alt="Adobe photoshop"/>
