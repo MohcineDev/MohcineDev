@@ -1,5 +1,7 @@
 ﻿### Hi there 👋
 
+I am a Full Stack Developer with 2+ years of hands-on experience in building interactive web applications through freelance and personal projects. 
+
 "Continuously motivated to learn and enhance my skills."
 
 * 📫 Contact me: Mouhcinedev@gmail.com
