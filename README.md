@@ -9,7 +9,7 @@ I am a Full Stack Developer with 2+ years of hands-on experience in building int
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohcineDev&langs_count=16)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=MohcineDev&layout=compact&langs_count=16&theme=algolia)
 </div>
 <div  align="center" style="display:flex">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohcinedev&count_private=true&theme=algolia"  alt="@MOHCINEDEV"> 
