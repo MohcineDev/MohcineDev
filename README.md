@@ -21,23 +21,9 @@ I am a Full Stack Developer with 2+ years of hands-on experience in building int
 
 
 ### Tools :     
-<div align="center" style="display:flex; justify-content:space-between; align-items:center; width:100%">
-<img width=40px src="pre.svg" alt="premiere pro"/>
- <img width=40px src="ill.svg" alt="Adobe illustrator"/>
- <img width=40px src="pho.svg" alt="Adobe photoshop"/>
- <img width=40px src="bash.svg" alt="git bash" title="Git">
- <img width=40px src="html.svg" alt="html">
- <img width=40px src="css.svg" alt="css">
- <img width=40px src="react.svg" alt="React JS">
- <img width=40px background="rgb(255,255,255)" src="next.png" alt="Next JS" style="background-color:#fff">
- <img width=40px src="vue.png" alt="Vue JS">
- <img width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS">
- <img width=40px src="https://nodejs.org/static/images/logo.svg" alt="node JS">
- <img width=40px src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="visualstudio code">
- <img width=40px src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="visualstudio">
- <img width=40px src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer">  
- <img width=40px src="tailwindcss.svg" alt="tailwindcss">  
- <img width=40px src="grunt.svg" alt="grunt">  
- <img width=40px src="https://go.dev/images/go-logo-white.svg" alt="GO">  
-</div>
+<div align="center" style="display:flex; justify-content:space-between; align-items:center; width:100%">  <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" width="40" height="40" alt="Git" /> <img src="https://api.iconify.design/simple-icons:gnubash.svg?color=%234EAA25" width="40" height="40" alt="GNU Bash" /> <img src="https://api.iconify.design/simple-icons:html5.svg?color=%23E34F26" width="40" height="40" alt="HTML5" />
+ <img src="https://api.iconify.design/simple-icons:css.svg?color=%23663399" width="40" height="40" alt="CSS" /> <img src="https://api.iconify.design/simple-icons:react.svg?color=%2361DAFB" width="40" height="40" alt="React" /> <img src="https://api.iconify.design/simple-icons:vuedotjs.svg?color=%234FC08D" width="40" height="40" alt="Vue.js" /> <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23F7DF1E" width="40" height="40" alt="JavaScript" /> <img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=%235FA04E" width="40" height="40" alt="Node.js" /> 
+ <img src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23000000" width="40" height="40" alt="Next.js" /><img width=40px src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="visualstudio code"> <img width=40px src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="visualstudio">  <img src="https://api.iconify.design/simple-icons:puppeteer.svg?color=%2340B5A4" width="40" height="40" alt="Puppeteer" />  <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%2306B6D4" width="40" height="40" alt="Tailwind CSS" /> <img src="https://api.iconify.design/simple-icons:grunt.svg?color=%23FAA918" width="40" height="40" alt="Grunt" /> <img src="https://api.iconify.design/simple-icons:go.svg?color=%2300ADD8" width="40" height="40" alt="Go" />
+ 
+</div> 
  </div> 
