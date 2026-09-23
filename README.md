@@ -13,10 +13,10 @@ I am a Full Stack Developer with 2+ years of hands-on experience in building int
 </div>
 <div  align="center" style="display:flex">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohcinedev&count_private=true&theme=algolia"  alt="@MOHCINEDEV"> 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohcinedev&count_private=true&theme=algolia"  alt="@MOHCINEDEV"> 
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohcinedev&count_private=true&theme=algolia"  alt="@MOHCINEDEV"> -->
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=mohcinedev&theme=algolia&hide_border=true&border_radius=16&card_width=800&fire=21c063" alt="@MOHCINEDEV"/>
+<!-- <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=mohcinedev&theme=algolia&hide_border=true&border_radius=16&card_width=800&fire=21c063" alt="@MOHCINEDEV"/>-->
 </div>
 
 
